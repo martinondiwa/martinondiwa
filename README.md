@@ -1,6 +1,7 @@
-                                                   Martin Ondiwa
-
-                        Geospatial Engineer | AI Developer | Web & Mobile Developer|🌍 Nairobi, Kenya
+<h2 align="center">
+   Martin Ondiwa </h2><br> *****
+ <h3 align="center">
+      Geospatial Engineer | AI Developer | Web & Mobile Developer|🌍 Nairobi, Kenya </h3><br> *****
 
 <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -216,5 +217,3 @@
         <th colspan="7"><a href="https://github.com/martinondiwa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20martin@example.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
       </tr>
 <td align="center">
-
-
