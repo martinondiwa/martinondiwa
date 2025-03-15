@@ -48,7 +48,7 @@
 ![](https://img.shields.io/badge/Wheeler_institute-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
 ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6)
-![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
+![](https://img.shields.io/badge/Africa_Leadership_Academy-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
 ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 </div>
