@@ -5,15 +5,6 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 
 **I'm a passionate software developer with a focus on creating efficient and scalable applications.**
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Concepts You're Learning]
-- 👯 I’m looking to collaborate on [Interesting Projects or Open Source]
-- 🤔 I’m looking for help with [Areas Where You Need Help]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
-
 ---
 
 ### 🛠️ Languages and Tools:
