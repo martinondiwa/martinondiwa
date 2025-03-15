@@ -25,7 +25,7 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 <div align="center"> Social and Contact Info. </div><br>
 <p align="center">
 <a href="https://martinondiwa.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/martinondiwa/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/martin-sure-99ba1a226/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:martin@example.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<br>
 <a href="https://twitter.com/martinondiwa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.hackerrank.com/martinondiwa"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Hackerrank" /></a>&nbsp;
@@ -45,10 +45,10 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 <div align="center">
 
 ## 🎓📚 Education 
-![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
-![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
-![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
+![](https://img.shields.io/badge/Technical_University_of_Kenya-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
+![](https://img.shields.io/badge/Alx_Africa-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+![](https://img.shields.io/badge/Udemy-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![](https://img.shields.io/badge/Wheeler_institute-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
 ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6)
 ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
@@ -224,10 +224,6 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 [![GitHub Streak](https://github-readme
 ---
 
-### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoWidth=40&logoHeight=40)](https://www.linkedin.com/in/martin-sure-99ba1a226/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoWidth=40&logoHeight=40&logoColor=white)](https://twitter.com/https://x.com/kondiwa_sure?s=09)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoWidth=40&logoHeight=40&logoColor=white)](mailto:suremartin653@gmail.com)
 
 ---
