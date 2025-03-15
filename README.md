@@ -3,9 +3,6 @@
 Geospatial Engineer | AI Developer | Web & Mobile Developer
 🌍 Nairobi, Kenya
 
-**I'm a passionate software developer with a focus on creating efficient and scalable applications.**
-
-
 <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -221,9 +218,6 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
       </tr>
 <td align="center">
 
-[![GitHub Streak](https://github-readme
 ---
-
-
 
 ---
