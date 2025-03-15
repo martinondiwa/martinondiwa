@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Martin Ondiwa
+                                            Martin Ondiwa
 
-Geospatial Engineer | AI Developer | Web & Mobile Developer
-🌍 Nairobi, Kenya
+                        Geospatial Engineer | AI Developer | Web & Mobile Developer|🌍 Nairobi, Kenya
 
 <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -220,4 +219,3 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 
 ---
 
----
