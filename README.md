@@ -1,38 +1,53 @@
 ## Hi there 👋
 
-🚀 Martin Sure Ondiwa | Geospatial Engineer | AI Developer | Web & Mobile Developer
+I am Martin Sure Ondiwa | Geospatial Engineer | AI Developer | Web & Mobile Developer
 🌍 Nairobi, Kenya
-🔗 LinkedIn | Portfolio | Twitter
+
+I am a Software Engineer, Specializing in Full Stack Development, with a strong focus on Backend Engineering: Node.JS, Flask, Django, GraghQL, TypeScript, React.JS, NextJS, Laravel, Dart & Flutter.
 
 
-💡 About Me
-👋 Hi, I'm Martin Sure Ondiwa, a passionate Geospatial Engineer and AI & Web Developer from Nairobi, Kenya. I specialize in Geospatial AI, Machine Learning, Full-Stack Web & Mobile App Development.
-🌱 Currently working on TripGwiji, an AI-powered smart travel assistant! 🚀
-🔍 Actively exploring AI-driven geospatial solutions, 3D mapping, and automation.
+RichardMiruka I'm Glad You're Checking My Profile 😁
 
-🛠️ Tech Stack & Tools
-💻 Languages:
+🎓 Education:
+🔭 ALX Software Engineering Nanodegree Program (Stack: NodeJS, Flask, TypeScript, Django )
 
-🛠 Frameworks & Libraries:
+🔭 Moringa School Bootcamp Graduate. (Stack: Python - Flask, JavaScript - React & Angular.)
 
-📡 Cloud & DB:
+🔭 ALX Intro To SWE Program Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
 
-🛠 Dev Tools:
+🔭 Power Learn Project Nanodegree Program. (Stack: Python - Django, Dart & Flutter.)
 
-📈 GitHub Stats
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=martinondiwa&show_icons=true&theme=radical&count_private=true" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com?user=martinondiwa&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> </td> </tr> </table>
-📊 Top Languages
+🔭 I’m currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS,
 
-🚀 Latest Projects
-🔹 TripGwiji – AI-powered travel planner using Gemini AI, Google Places API & Firebase
-🔹 Subomap Geosystems Africa – Web platform for land surveying & geospatial solutions
-🔹 3D Digital Heritage Documentation – 3D mapping of Thim-Lich Ohinga heritage site
+🔭 I'm a member of ALX/ALX SE
 
-🎯 Connect With Me
-📩 Email: surekondiwa@gmail.com
-💼 LinkedIn: @martin-sure
-🐦 Twitter: @martinondiwa
+⚡ Current Proficient Stacks: Flask, Django, Node.js & React.js
+
+⚡ Fun fact: I am both a Software Engineer and a Resource Planner!
+
+⚡ P/S Learning and picking up very fast is very important to me
+
+💬 Read my blog here
+
+🏋🏿 You can Check Out My Portfolio
+
+🔭 You can also find me on Linkedin
+
+Languages and Tools:
+android bootstrap circleci docker express figma git java javascript jest mocha nodejs postgresql postman python react sass typescript unity
 
 
-✨ "Code. Innovate. Transform." 🚀
-Let me know if you'd like any custom animations, graphs, or additional styling! 😊
+Stats.
+wakatime
+
+CodeTime Badge
+
+
+
+Richard Miruka's Github stats
+
+RichardMiruka
+
+
+68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966
+
