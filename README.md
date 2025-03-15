@@ -1,7 +1,7 @@
 <h2 align="center">
-   Martin Ondiwa </h2><br> *****
+   Martin Ondiwa <br> *****</h2>
  <h3 align="center">
-      Geospatial Engineer | AI Developer | Web & Mobile Developer|🌍 Nairobi, Kenya </h3><br> *****
+      Geospatial Engineer | AI Developer | Web & Mobile Developer|🌍 Nairobi, Kenya <br> *****</h3>
 
 <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
