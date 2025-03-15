@@ -41,7 +41,7 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoWidth=40&logoHeight=40)](https://linkedin.com/in/https://www.linkedin.com/in/martin-sure-99ba1a226/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoWidth=40&logoHeight=40)](https://www.linkedin.com/in/martin-sure-99ba1a226/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoWidth=40&logoHeight=40&logoColor=white)](https://twitter.com/https://x.com/kondiwa_sure?s=09)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoWidth=40&logoHeight=40&logoColor=white)](mailto:suremartin653@gmail.com)
 
