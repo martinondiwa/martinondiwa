@@ -7,7 +7,7 @@ Geospatial Engineer | AI Developer | Web & Mobile Developer
 
 ---
 
-### 🛠️ Languages and Tools:
+💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
