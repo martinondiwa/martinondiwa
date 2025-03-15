@@ -1,4 +1,4 @@
-                                            Martin Ondiwa
+                                                   Martin Ondiwa
 
                         Geospatial Engineer | AI Developer | Web & Mobile Developer|🌍 Nairobi, Kenya
 
@@ -217,5 +217,4 @@
       </tr>
 <td align="center">
 
----
 
