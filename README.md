@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://martinondiwa.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/martin-sure-99ba1a226/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:surekondiwa@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<br>
+<a href="mailto:surekondiwa@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="suremartin653@gmail.com" /></a>&nbsp;<br>
 <a href="https://twitter.com/martinondiwa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.hackerrank.com/martinondiwa"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Hackerrank" /></a>&nbsp;
 <a href="https://www.researchgate.net/profile/Martin-Ondiwa"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="ResearchGate" /></a>&nbsp;
